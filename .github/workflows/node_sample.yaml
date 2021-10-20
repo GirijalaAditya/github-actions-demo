@@ -1,4 +1,4 @@
-name: Node.js GitHub Actions Demo
+name: Node.js GitHub Actions 
 
 on:
   push:
